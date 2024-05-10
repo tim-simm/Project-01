@@ -1,8 +1,18 @@
+body {
+    background-color: #5f9ea0;
+}
+
+.navbar-custom {
+    background-color: #3A5E5F !important;
+    
+}
+
 .product-container {
     display: flex;
     gap: 32px;
     padding-left: 32px;
     padding-right: 32px;
+    padding-top: 20px;
 }
 
 @media (max-width: 850px ) {
